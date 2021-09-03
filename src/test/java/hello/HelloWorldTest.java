@@ -1,5 +1,5 @@
 import static org.junit.Assert.*;  
-import hello;
+import hello.HelloWorld;
 import org.junit.Test;  
   
 public class TestHelloWorld {  

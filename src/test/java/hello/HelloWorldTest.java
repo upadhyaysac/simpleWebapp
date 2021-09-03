@@ -6,6 +6,6 @@ public class TestHelloWorld {
   
     @Test  
     public void testMessage(){  
-        assertTrue( HelloWorld.getMessage().contains('Hello'));  
+        assertTrue( HelloWorld.getMessage().contains("Hello"));  
     }  
 }  

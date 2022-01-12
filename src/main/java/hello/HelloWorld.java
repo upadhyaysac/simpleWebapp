@@ -2,6 +2,6 @@ package hello;
 
 public class HelloWorld {
     public static String getMessage() {
-        return "Hello,New World 8.0!";
+        return "Hello,New World from aws machine!";
     }
 }
